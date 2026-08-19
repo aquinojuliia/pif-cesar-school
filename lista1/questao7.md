@@ -1,0 +1,11 @@
+A) 
+  Bom dia! Shirley.
+B) Você já tomou café?
+
+C)
+  A solução não existe! 
+  Não insista.
+D) Duas  linhas   de  saída  ou  uma?
+E) um
+  dois 
+  três

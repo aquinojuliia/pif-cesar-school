@@ -1,0 +1,2 @@
+a) No trecho A no operador pre fixado, o valor de n é incrementado antes de ser utilizado na atribuição. Já no trcho B o valor original é utilizado antes do incremento ocorrer.
+b) A linguagem C não garante a ordem de avaliação dos argumentos passados para uma função e não define um ponto de sequência (sequence point) entre eles. Como a expressão modifica a variável (n++) e a lê simultaneamente (n e n+1) na mesma chamada, o resultado depende inteiramente da ordem em que o compilador escolhe avaliar os parâmetros, gerando um comportamento indefinido (undefined behavior).
